@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+h1{
+    border: 2px dashed violet;
+    border-radius: 50px;
+    padding: 20px;
+    margin: 10px 50px;
+    text-align: center;
+}
+
+p{
+    border: 2px solid red;
+    padding: 10px 20px;
+    margin: 20px 100px;
+}
+
+h2{
+    border: 2px solid violet;
+    border-radius: 20px;
+    box-shadow: -22px 10px 55px green;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+ol{
+    border: 2px solid sandybrown;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px 50px;
+}
+
+li{
+    text-decoration: underline aqua;
+}
+
+h3{
+    border: thick double violet;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+}
+
+ul{
+    border: 2px solid sandybrown;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px 50px;
+}
